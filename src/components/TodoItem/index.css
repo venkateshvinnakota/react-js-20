@@ -1,0 +1,28 @@
+.TodoItemContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: 500;
+  font-size: 14px;
+  width: 370px;
+  text-align: left;
+}
+
+.button {
+  font-family: 'Roboto';
+  color: #ff0b37;
+  height: 23px;
+  width: 55px;
+  font-weight: 400;
+  font-size: 11px;
+  border-radius: 7px;
+  border-color: #ff0b37;
+  border-width: 1px;
+  background-color: #ffffff;
+  margin-right: 40px;
+}
